@@ -1,0 +1,10 @@
+.live_preview
+{
+    display: flex;
+    flex-direction: column;
+}
+.code{
+    text-align: center;
+    color: orange;
+    border: 1px ;
+}

@@ -1,0 +1,13 @@
+.App_block{
+    display: flex;
+    flex-direction: row;
+    margin: 1.5rem;
+}
+
+.vertical_divison{
+    width: 2rem;
+    height:100vh;
+    margin: 0 1rem;
+    background: olive;
+    content: normal;
+}
